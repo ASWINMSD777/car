@@ -60,7 +60,15 @@ button{
 .pd1{
     margin-top: 50px;
 }
+.pd2{
+    margin-bottom: 30px;
+}
+
 .p{
     margin-left: 60px;
 }
 
+.img{
+    height: 150px;
+    width: 200px;
+}
