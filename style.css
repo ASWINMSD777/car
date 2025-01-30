@@ -1,0 +1,52 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    /* font-family: 'Great Vibes', cursive; */
+    user-select: none;
+}
+
+.cardA:hover{
+        box-shadow: 5px 5px 10px 10px gray;
+        border-radius:20px;
+        }
+.card img:hover{
+    scale: (1.1);
+    transition: 0.3s ease-out;
+}
+.a{
+    text-decoration: none;
+}
+button{
+    border-radius: 20px;
+}
+.para{
+    font-weight: bold;
+}
+.mycolor{
+    color: black;
+}
+.cot{
+    font-weight: bolder;
+    font-family: 'Great Vibes', cursive;
+}
+.bn{
+    border-radius: 10px;
+    align-items: center;
+}
+.car{
+    height: 100px;
+    width: 175px;
+    padding-left:70px ;
+}
+.car:hover{
+    height:120px;
+    width: 190px;
+}
+.h:hover{
+    background-color: black;
+    border-radius: 20px;
+    color: antiquewhite;
+}
+.logo{
+    color: aliceblue;
+}
+
